@@ -1,0 +1,8 @@
+char ch[]={'a','b','c','a','c'};
+for(char ch1='a';ch1<='z';ch1++)
+int count=0;
+for(int i=0;i<ch.length;i++)
+if(ch==ch1[i])
+count++;
+if(count>1)
+System.out.println(ch+" is repeated "+count+" times")
