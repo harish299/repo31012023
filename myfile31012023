@@ -5,4 +5,5 @@ for(int i=0;i<ch.length;i++)
 if(ch==ch1[i])
 count++;
 if(count>1)
-System.out.println(ch+" is repeated "+count+" times")
+System.out.println(ch+" is repeated "+count+" times");
+//this is updated file for git hub
